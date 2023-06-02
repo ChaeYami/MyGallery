@@ -3,14 +3,15 @@
 
 🤗 배포
 ------
-
-
+> [My Little Gallery](https://mylittlegallery.netlify.app/)
 
 📚 stacks 
 ------
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">  <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">   
-`Python` v3.10.6  
-`Django` v4.2.1
+
+<img src="https://img.shields.io/badge/python 3.8.6 -3776AB?style=for-the-badge&logo=python&logoColor=white">  <img src="https://img.shields.io/badge/django 4.2.1-092E20?style=for-the-badge&logo=django&logoColor=white">  <img src="https://img.shields.io/badge/djangorestframework 3.14.0-092E20?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/opencv 4.7.0.-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
+ <br> <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <br>  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">  <img src="https://img.shields.io/badge/amazonec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"> <img src="https://img.shields.io/badge/amazonrds-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"> <img src="https://img.shields.io/badge/gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white"> <img src="https://img.shields.io/badge/nginx 1.18.0-009639?style=for-the-badge&logo=nginx&logoColor=white">
+
+
 ***
 
 💖 머신러닝 프로젝트 : 나만의 갤러리 SNS 만들기 🖼️
@@ -116,4 +117,4 @@
 
 💛 회의록
 ------
-[회의록](https://www.notion.so/b0a1e10efe444ceba18f2a632b4ac328?pvs=4)
+[회의록]([https://www.notion.so/b0a1e10efe444ceba18f2a632b4ac328?pvs=4](https://secretive-enthusiasm-4ee.notion.site/b0a1e10efe444ceba18f2a632b4ac328))
